@@ -19,7 +19,7 @@ describe("test suite 2", () => {
   });
 });
 describe("test suite 3", () => {
-  it("test case 6", function () {
+  it("test case 7", function () {
     // do something
     // assert something
   });
