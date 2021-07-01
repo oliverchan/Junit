@@ -7,19 +7,19 @@ var assert = require("assert");
 //   });
 // });
 describe("test suite 1", () => {
-  it("test case 1", function () {
+  it("pipeline - test case 1", function () {
     // do something
     // assert something
   });
 });
 describe("test suite 2", () => {
-  it("test case 2", function () {
+  it("pipeline test case 2", function () {
     // do something
     // assert something
   });
 });
 describe("test suite 3", () => {
-  it("test case 9", function () {
+  it("pipeline test case 9", function () {
     // do something
     // assert something
   });
