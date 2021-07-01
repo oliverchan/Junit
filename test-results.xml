@@ -11,7 +11,7 @@
     </testcase>
   </testsuite>
   <testsuite name="test suite 3" timestamp="2021-06-30T13:59:58" tests="1" file="/c/Users/Oliver_Chan/project/Junit/Junit/test/test.js" time="0.0000" failures="0">
-    <testcase name="test suite 3 test case 11" time="0.0000" classname="test case 17">
+    <testcase name="test suite 3 test case 11" time="0.0000" classname="test case 18">
     </testcase>
   </testsuite>
 </testsuites>
