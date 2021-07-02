@@ -12,8 +12,8 @@ describe("test suite 11", () => {
     // assert something
   });
 });
-describe("test suite 2", () => {
-  it("pipeline test case 2", function () {
+describe("test suite 12", () => {
+  it("pipeline test case 12", function () {
     // do something
     // assert something
   });
