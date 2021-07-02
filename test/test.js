@@ -6,8 +6,8 @@ var assert = require("assert");
 //     });
 //   });
 // });
-describe("test suite 1", () => {
-  it("pipeline - test case 1", function () {
+describe("test suite 11", () => {
+  it("pipeline - test case 11", function () {
     // do something
     // assert something
   });
