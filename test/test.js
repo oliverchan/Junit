@@ -6,8 +6,8 @@ var assert = require("assert");
 //     });
 //   });
 // });
-describe("test suite 11", () => {
-  it("pipeline - test case 11", function () {
+describe("To connect with test result with jira stories", () => {
+  it("pipeline - test case 21", function () {
     // do something
     // assert something
   });
