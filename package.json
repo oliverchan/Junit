@@ -15,5 +15,6 @@
     "@wdio/spec-reporter": "^7.7.3",
     "mocha-junit-reporter": "^2.0.0",
     "wdio-chromedriver-service": "^7.1.1"
+    "chai": "^4.3.4"
   }
 }
