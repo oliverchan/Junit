@@ -6,12 +6,12 @@ var assert = require("assert");
 //     });
 //   });
 // });
-describe("To connect with test result with jira stories", () => {
-  it("pipeline - test case 21", function () {
+describe("To connect with test result with jira stories-3x", () => {
+  it("pipeline - test case 31", function () {
     // do something
     // assert something
-  });
-  it("pipeline - should show test case 22", function () {
+  })
+  it("pipeline - should show test case 32", function () {
     // do something
     // assert something
   });
