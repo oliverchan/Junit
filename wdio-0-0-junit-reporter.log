@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="webdriver io page" timestamp="2021-07-04T13:01:15" time="6.26" tests="1" failures="0" errors="0" skipped="0">
+  <testsuite name="webdriver io page1" timestamp="2021-07-04T13:01:15" time="6.26" tests="1" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="0"/>
       <property name="suiteName" value="webdriver.io page"/>
