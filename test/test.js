@@ -11,6 +11,11 @@ describe("To connect with test result with jira stories", () => {
     // do something
     // assert something
   });
+  it("pipeline - should show test case 22", function () {
+    // do something
+    // assert something
+  });
+  
 });
 describe("test suite 12", () => {
   it("pipeline test case 12", function () {
