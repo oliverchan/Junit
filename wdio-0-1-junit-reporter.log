@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Lambdatest Demo Test" timestamp="2021-07-04T13:01:15" time="16.433" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Lambdatest Demo Test"/>
+      <property name="capabilities" value="chrome.91_0_4472_124.windows"/>
+      <property name="file" value=".\test\specs\myFirstScript.js"/>
+    </properties>
+    <testcase classname="chrome.91_0_4472_124.windows.Lambdatest Demo Test" name="Lambdatest Demo TestCase" time="16.433">
+      <system-out><![CDATA[
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/url - {"url":"https://lambdatest.github.io/sample-todo-app/"}
+RESULT: {"url":"https://lambdatest.github.io/sample-todo-app/"}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element - {"using":"css selector","value":"*[name='li1']"}
+RESULT: {"using":"css selector","value":"*[name='li1']"}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element/b76bef83-bfbc-4f6e-a5f3-d924ff50ebf5/click - {}
+RESULT: {}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element - {"using":"css selector","value":"*[name='li2']"}
+RESULT: {"using":"css selector","value":"*[name='li2']"}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element/920a1451-fbca-4ae9-8636-705d42999089/click - {}
+RESULT: {}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element - {"using":"css selector","value":"#sampletodotext"}
+RESULT: {"using":"css selector","value":"#sampletodotext"}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element/f9c6ddf4-7e07-4b82-8e6d-387366be48e1/clear - {}
+RESULT: {}
+COMMAND: POST /session/ec55a9cc378baa579effd3b7af3ac62f/element/f9c6ddf4-7e07-4b82-8e6d-387366be48e1/value - {"text":"Lambdatest\n"}
+RESULT: {"text":"Lambdatest\n"}
+COMMAND: GET /session/ec55a9cc378baa579effd3b7af3ac62f/title - {}
+RESULT: {}
+COMMAND: DELETE /session/ec55a9cc378baa579effd3b7af3ac62f - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

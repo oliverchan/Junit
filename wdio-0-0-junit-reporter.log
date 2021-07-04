@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="webdriver io page" timestamp="2021-07-04T13:01:15" time="6.26" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="webdriver.io page"/>
+      <property name="capabilities" value="chrome.91_0_4472_124.windows"/>
+      <property name="file" value=".\test\specs\basic.js"/>
+    </properties>
+    <testcase classname="chrome.91_0_4472_124.windows.webdriver io page" name="should have the right title" time="6.258">
+      <system-out><![CDATA[
+COMMAND: POST /session/7fe3f3e7408b3d314d5ab50bfe532926/url - {"url":"https://webdriver.io/"}
+RESULT: {"url":"https://webdriver.io/"}
+COMMAND: GET /session/7fe3f3e7408b3d314d5ab50bfe532926/title - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+  <testsuite name="a test suite" timestamp="2021-07-04T13:01:21" time="0.002" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="a test suite"/>
+      <property name="capabilities" value="chrome.91_0_4472_124.windows"/>
+      <property name="file" value=".\test\specs\basic.js"/>
+    </properties>
+    <testcase classname="chrome.91_0_4472_124.windows.a test suite" name="a test case" time="0.002">
+      <system-out><![CDATA[
+COMMAND: DELETE /session/7fe3f3e7408b3d314d5ab50bfe532926 - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
