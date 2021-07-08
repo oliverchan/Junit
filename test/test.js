@@ -7,11 +7,11 @@ var assert = require("assert");
 //   });
 // });
 describe("To connect with test result with jira stories-5x", () => {
-  it("pipeline - test case 51", function () {
+  it("pipeline - test case 101", function () {
     // do something
     // assert something
   })
-  it("pipeline - should show test case 52", function () {
+  it("pipeline - should show test case 102", function () {
     // do something
     // assert something
   })
