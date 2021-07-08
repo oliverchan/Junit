@@ -17,14 +17,14 @@ describe("To connect with test result with jira stories-5x", () => {
   })
   
 });
-describe("test suite 53", () => {
-  it("pipeline test case 12", function () {
+describe("test suite 6x", () => {
+  it("pipeline test case 63", function () {
     // do something
     // assert something
   });
 });
-describe("test suite 54", () => {
-  it("pipeline test case 9", function () {
+describe("test suite 7x", () => {
+  it("pipeline test case 74", function () {
     // do something
     // assert something
   });
