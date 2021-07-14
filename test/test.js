@@ -18,7 +18,7 @@ describe("To connect with test result with jira stories-5x", () => {
   
 });
 describe("test suite 6x", () => {
-  it("pipeline test case 63", function () {
+  it("this is TC 1", function () {
     // do something
     // assert something
   });
