@@ -24,7 +24,7 @@ describe("test suite 6x", () => {
   });
 });
 describe("test suite 7x", () => {
-  it("pipeline test case 88", function () {
+  it("test case 1", function () {
     // do something
     // assert something
   });
